@@ -1,0 +1,10 @@
+package cl.duoc.speedfast.model;
+
+/**
+ *  REPRESENTA TRES INSTANCIAS UNICAS PARA ORDENAR POR PRIORIDAD, MEJORAR LA LEGIBILIDAD Y EVITAR ERRORES DE TIPEO
+ */
+
+public enum PrioridadPedido {
+
+    ALTA, MEDIA, BAJA
+}
